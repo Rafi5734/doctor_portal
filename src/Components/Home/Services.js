@@ -11,7 +11,7 @@ const Services = () => {
         <div className="text-left ">
           <h1 className="text-xl mb-3">Verified doctors</h1>
           <p className="text-md font-normal ">
-            Every doctors on Daktar bari platform are BMDC certified. We verify
+            Every doctors on WhizeeHealth platform are BMDC certified. We verify
             relevant information before the doctor can consult any patient.
           </p>
         </div>
@@ -118,7 +118,7 @@ const Services = () => {
         <div className="text-left">
           <h1 className="text-xl mb-3">Medicine reminder</h1>
           <p className="text-md font-normal ">
-            Do not worry about taking your medicine on time. Daktar bari App
+            Do not worry about taking your medicine on time. WhizeeHealth App
             will remind you.
           </p>
         </div>

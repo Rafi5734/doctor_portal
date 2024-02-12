@@ -7,14 +7,14 @@ const MainServices = () => {
       <div className="left-sec lg:text-left  lg:mr-16">
         {" "}
         <h1 className=" text-xl lg:text-5xl mb-4 lg:mb-16 ">
-          Services of Daktar bari{" "}
+          Services of WhizeeHealth{" "}
         </h1>
         <p className="text-md font-semibold text-justify  mx-4 lg:mx-0">
-          Daktar bari is an end-to-end health solution that enables better
+          WhizeeHealth is an end-to-end health solution that enables better
           health and wellbeing with advanced technology.
           <br></br>
           <br></br>
-          Daktar bari offers several services including healthcare and
+          WhizeeHealth offers several services including healthcare and
           protection subscriptions packages, certified and verified GP and
           specialist consultations (80% of our patients wait less than 10min to
           be connected to a doctor), online prescriptions, medicine delivery,

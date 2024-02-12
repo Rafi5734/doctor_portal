@@ -35,10 +35,10 @@ const HaveAnyQuestions = () => {
                 advice Sometimes it's helpful to see a specialist when you want.
                 And get educational advice, pre-screening, monitoring and
                 follow-ups. For maternal and infant health care, chronic
-                diseases such as diabetes, or other conditions, Daktar bari can
+                diseases such as diabetes, or other conditions, WhizeeHealth can
                 help you to connect with the right specialist doctor and to stay
                 healthy. More than 20 different specialities are available on
-                Daktar bari. Mental health and wellbeing In a fast paced world,
+                WhizeeHealth. Mental health and wellbeing In a fast paced world,
                 it is important to monitor and protect your mental health and
                 wellbeing. Doctors can help you stay healthy whether you have
                 symptoms at home or in your workplace of stress, smoking,
@@ -55,7 +55,7 @@ const HaveAnyQuestions = () => {
                 You can register on our App and access several medical services
                 easily. The basic video consultation service is straightforward:
                 search for your relevant doctor with easy filters, talk to your
-                doctor directly as included in your Daktar bari healthcare
+                doctor directly as included in your WhizeeHealth healthcare
                 package or pay just prior the on-demand consultation starts.
                 Then access your prescription uploaded by the doctor and you can
                 order medicine or tests as recommended. Keep in touch with the
@@ -69,13 +69,13 @@ const HaveAnyQuestions = () => {
           <AccordionItem>
             <AccordionItemHeading>
               <AccordionItemButton>
-                Who provides consultation on Daktar bari?
+                Who provides consultation on WhizeeHealth?
               </AccordionItemButton>
             </AccordionItemHeading>
             <AccordionItemPanel>
               <p className="font-normal text-lg text-justify">
                 Only certified MBBS doctors can provide consultation via the
-                Daktar bari app.
+                WhizeeHealth app.
               </p>
             </AccordionItemPanel>
           </AccordionItem>

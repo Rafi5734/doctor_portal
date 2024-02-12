@@ -6,7 +6,7 @@ const WhyUseDaktarBari = () => {
   return (
     <div className=" lg:mt-32 mx-16">
       <h1 className=" text-2xl lg:text-5xl lg:text-left text-center   ">
-        Why use Daktar Bari
+        Why use WhizeeHealth
       </h1>
       <div className="hero  ">
         <div className="hero-content flex-col lg:flex-row-reverse ">

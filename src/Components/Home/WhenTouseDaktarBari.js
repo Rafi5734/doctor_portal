@@ -5,7 +5,7 @@ const WhenTouseDaktarBari = () => {
   return (
     <div className="mt-12 lg:mt-32">
       <h1 className=" text-2xl lg:text-5xl lg:text-right  lg:mr-20 mb-20">
-        When to use Daktar Bari
+        When to use WhizeeHealth
       </h1>
       {/* grid */}
       <div className="main-grid grid grid-cols-1 lg:grid-cols-2 items-center">
@@ -31,9 +31,9 @@ const WhenTouseDaktarBari = () => {
               Sometimes it’s helpful to see a specialist when you want. For
               gynaecology, child specialists, dermatology, cardiology,
               gastroenterology, nutrition,chronic diseases such as hypertension,
-              or other conditions, Daktar bari can help you to connect with the
+              or other conditions, WhizeeHealth can help you to connect with the
               right specialist doctor and to stay healthy. More than 20
-              different specialities are available on Daktar bari.
+              different specialities are available on WhizeeHealth.
             </p>
           </div>
           <div className="items mb-12 text-left">

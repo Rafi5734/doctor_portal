@@ -18,8 +18,9 @@ const GetMedicalHelp = () => {
             Easy to use
           </h1>
           <p className="lg:text-md font-normal text-left">
-            Get the best user experience on Daktar bari App. Search for a doctor
-            and get an instant consultation. You can join the online queue
+            Get the best user experience on WhizeeHealth App. Search for a
+            doctor and get an instant consultation. You can join the online
+            queue
             <br></br>
             <br></br>
             <br></br>
@@ -46,10 +47,10 @@ const GetMedicalHelp = () => {
             Trusted
           </h1>
           <p className="lg:text-md font-normal text-left">
-            Daktar bari's experienced doctors, specialists and therapists are
+            WhizeeHealth experienced doctors, specialists and therapists are
             selected carefully. Safety and quality is at the heart of everything
             we do. Each doctor is certified, registered, and operates to the
-            highest clinical standards. Daktar bari uses 256 bit encryption to
+            highest clinical standards. WhizeeHealth uses 256 bit encryption to
             secure the video consultation.
           </p>
         </div>
