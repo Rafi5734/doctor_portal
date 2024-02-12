@@ -19,14 +19,15 @@ const Footer = () => {
       <hr />
       <footer className="footer p-16 py-12   text-base-content ">
         <div>
-          <img className="w-64 mb-4" src={logo} />
+          {/* <img className="w-64 mb-4" src={logo} /> */}
+          <p>WhizzeHealth</p>
           <p className="flex items-center font-semibold ">
             <MdAddCall className="text-2xl"></MdAddCall>
             <span className="ml-4 text-xl">+880 1629753681</span>
           </p>
           <p className="flex items-center font-semibold ">
             <TfiEmail className="text-2xl"></TfiEmail>
-            <span className="ml-4 text-xl">support@daktarbari.com.bd</span>
+            <span className="ml-4 text-xl">support@WhizzeHealth.com.bd</span>
           </p>
           <p className="flex items-center font-semibold text-3xl mt-4">
             <BsFacebook className="mr-4 "></BsFacebook>
@@ -87,7 +88,7 @@ const Footer = () => {
         <hr></hr>
         <p className="pb-4 pt-8 font-normal  ">
           Copyright © {year}
-          <span className="text-[#07C0BA]"> Daktar bari </span>
+          <span className="text-[#07C0BA]"> WhizzeHealth </span>
           All rights reserved.
         </p>
       </div>
