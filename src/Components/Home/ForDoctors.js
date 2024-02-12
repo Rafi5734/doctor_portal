@@ -17,7 +17,7 @@ const ForDoctors = () => {
           </h2>
           <div className="lg:text-left ">
             <p className="font-normal text-lg font-semibold lg:text-left lg:w-[470px]">
-              Join Daktar-bari network and create your virtual chamber provide
+              Join WhizzeHealth network and create your virtual chamber provide
               medical consultancy via video call and expand the reach of your
               service.{" "}
             </p>
