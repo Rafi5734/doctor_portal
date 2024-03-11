@@ -58,7 +58,7 @@ const Prescription = () => {
           <p className="font-normal lg:px-52 hidden lg:block">
             Consulting a healthcare professional, buying medicine, ordering lab
             tests and improving your health and wellbeing, all can be done 24/7
-            with Daktar bari!
+            with WhizeeHealth!
           </p>
           <hr className="h-px my-4 bg-secondary border-[1px] dark:bg-gray"></hr>
           <div className="flex justify-between">

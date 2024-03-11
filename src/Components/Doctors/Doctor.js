@@ -70,7 +70,7 @@ const Doctor = () => {
           <p>103280</p>
         </div>
         <div>
-          <h2 className="font-normal">Joined Daktar Bari</h2>
+          <h2 className="font-normal">Joined WhizeeHealth</h2>
           <p>8 Feb 2021</p>
         </div>
         <div>

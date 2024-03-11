@@ -44,7 +44,7 @@ const Medicine = () => {
         <div>
           {" "}
           <h1 className=" text-2xl  lg:text-4xl mb-4 lg:mb-10">
-            Please download Daktar bari app to order medicine online
+            Please download app to order medicine online
           </h1>
           <p className="text-xl font-semibold">
             We are launching order medicine online on the DocTime website very

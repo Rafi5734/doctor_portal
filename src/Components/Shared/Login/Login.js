@@ -142,7 +142,7 @@ const Login = () => {
             </form>
             <p>
               <small>
-                New to Daktar Bari?{" "}
+                New to WhizeeHealth?{" "}
                 <Link className="text-blue-500" to="/signup">
                   Create New Account
                 </Link>

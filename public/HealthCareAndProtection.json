@@ -1,7 +1,7 @@
 [
   {
     "id": 0,
-    "name": "Daktar bari Care",
+    "name": "WhizeeHealth Care",
     "price": "৳ 114",
     "perMonth": "/month",
     "for": "For 1 adult",
@@ -17,7 +17,7 @@
   },
   {
     "id": 1,
-    "name": "Daktar bari Care Plus",
+    "name": "WhizeeHealth Care Plus",
     "price": "৳ 200",
     "perMonth": "/month",
     "for": "For 1 adult",
@@ -34,7 +34,7 @@
   },
   {
     "id": 2,
-    "name": "Daktar bari Family Care",
+    "name": "WhizeeHealth Family Care",
     "price": "৳ 309",
     "perMonth": "/month",
     "for": "For 3 family members",
@@ -50,7 +50,7 @@
   },
   {
     "id": 3,
-    "name": "Daktar bari Special Care",
+    "name": "WhizeeHealth Special Care",
     "price": "৳ 451",
     "perMonth": "/month",
     "for": "For 1 adult",
@@ -66,7 +66,7 @@
   },
   {
     "id": 4,
-    "name": "Daktar bari Premium Care",
+    "name": "WhizeeHealth Premium Care",
     "price": "৳ 570",
     "perMonth": "/month",
     "for": "For 1 adult",

@@ -23,7 +23,7 @@ const HealthPlans = () => {
   return (
     <div className="my-28">
       {/* <h1 className=" text-2xl  lg:text-5xl text-center ">
-        Daktar bari Health Care & Protection Plans
+         Health Care & Protection Plans
       </h1> */}
 
       <HealthCare />
