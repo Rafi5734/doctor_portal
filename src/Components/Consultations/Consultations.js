@@ -50,7 +50,9 @@ const Consultations = () => {
             Select a Specialty
           </option>
           {specialties?.map((specialty) => (
-            <option value={specialty?.Specialty}>{specialty?.heading}</option>
+            <option key={specialty?._id} value={specialty?.Specialty}>
+              {specialty?.heading}
+            </option>
           ))}
         </select>
         {/* <label className="input input-bordered flex items-center gap-2">
